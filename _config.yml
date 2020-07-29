@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+
+permalink: /:categories/:year/:month/:title/
+logo: /assets/brunochagas.png
+title: Bruno Chagas
+description: Quantum Computing Postdoc Researcher at UFMG
+google_analytics: 

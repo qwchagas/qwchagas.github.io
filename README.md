@@ -42,3 +42,10 @@ I've been working on Quantum Computing since my PhD, researching on Quantum Walk
 - **Web Scraping**
   - Political Polarization
   - Music and Art
+
+### Talks
+- QLOC Seminar, Portugal, 2020. Quantum walks, algorithms and implementations.
+- Texas Tech Quantum Computing Seminar Series, USA, 2020. Quantum Approximate Optimization Algorithm: Theory, Application, and Perspectives.
+- [Podcast Rock com Ciência](https://www.rockcomciencia.com.br/arquivos/3676), 2020.
+- Quantum UFMG, Brazil, 2019. Quantum Approximate Optimization Algorithm: Theory, Application, and Perspectives.
+- [Podcast Devs Cansados](https://podcasts.apple.com/us/podcast/branch-01-computação-quântica/id1472552309?i=1000486891945), 2019.

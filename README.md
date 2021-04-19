@@ -1,15 +1,18 @@
 ## Hello!
 
 
-I've been working on Quantum Computing since my PhD, researching on Quantum Walks and its algorithms and physical realizations. I'm interested in analyzing different models of Quantum Walks on graphs, construct a quantum circuit that implements it and perform applications on searching problems and transport properties.
+I've been working on Quantum Computing since my PhD, researching on Quantum Walks and its algorithms and physical realizations. I'm interested in analyzing different models of Quantum Walks on graphs, construct a quantum circuit that implements it and perform applications on searching problems and transport properties. Recently, I was hired as computational scientist at Irish Centre for High-End Computing, Ireland, to join projects in Quantum Chemistry in NISQ computers.
 
 ### Education: 
-- Postoc [Federal University of Minas Gerais](https://ufmg.br/), Quantum Computing: 2019 - Present
 - Ph.D. [National Laboratory of Scientific Computing](https://www.lncc.br/), Computational Modeling: 2013-2018
 - M. Sc. [Fluminense Federal University](http://uff.br), Computational Modeling: 2011-2013
 - B.S. [Fluminense Federal University](http://uff.br), Mathematics: 2007-2010
 
-### Experience: 
+### Experience:
+- Computational Scientist [Irish Centre for High-End Computing, Ireland](https://www.ichec.ie): 2020 - present
+  - Quantum Chemistry in NISQ computers 
+- Postoc [Federal University of Minas Gerais](https://ufmg.br/): 2019 - 2020
+  - Quantum Computing in NISQ computers and Quantum Walks
 - Volunteer Professor, Federal University of Minas Gerais: 2019-2020
   - Courses: Introduction to Quantum Computing (2019) and Introduction to Computational Logic (2020).
 - Substitute Professor, Fluminense Federal University: 2017-2019
@@ -24,8 +27,18 @@ I've been working on Quantum Computing since my PhD, researching on Quantum Walk
 - [Staggered Quantum Walk on Hexagonal Lattices](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.052310)
 - [Political Polarization and Movie Ratings: Web Scraping The Brazilian Contemporary Scenario](http://ocs.editorial.upv.es/index.php/CARMA/CARMA2020/paper/view/11650)
 
+### Certificates
+- IBM's Qiskit Advocate
+- IBM Quantum Challenge
+- Qiskit Global Summer School
+
 ### Current Research Interests:
 - **Quantum Computing**
-  - Quantum Walk, Quantum Algorithms and its Physical Realizations
+  - Quantum Walks
+  - Quantum Algorithms in Optimization Problems (e.g. QAOA)
+  - Quantum Chemistry
+  - Quantum Finances
+  - Quantum Machine Learning
 - **Web Scraping**
   - Political Polarization
+  - Music and Art

@@ -50,7 +50,9 @@ I've been working on Quantum Computing since my PhD, researching on Quantum Walk
 - Qiskit Global Summer School
 
 ### Talks
-- QLOC Seminar, Portugal, 2020. Quantum walks, algorithms and implementations.
+- Federal University of Alagoas, 2021. Quantum Walks.
+- Câmara de Comércio Brasil-Canadá, 2021. Quantum Computing Webinar: When Fiction Becomes Reality.
+- QLOC Seminar, Portugal, 2020. Quantum walks, Algorithms and Implementations.
 - Texas Tech Quantum Computing Seminar Series, USA, 2020. Quantum Approximate Optimization Algorithm: Theory, Application, and Perspectives.
 - [Podcast Rock com Ciência](https://www.rockcomciencia.com.br/arquivos/3676), 2020.
 - Quantum UFMG, Brazil, 2019. Quantum Approximate Optimization Algorithm: Theory, Application, and Perspectives.

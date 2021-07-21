@@ -27,11 +27,6 @@ I've been working on Quantum Computing since my PhD, researching on Quantum Walk
 - [Staggered Quantum Walk on Hexagonal Lattices](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.052310)
 - [Political Polarization and Movie Ratings: Web Scraping The Brazilian Contemporary Scenario](http://ocs.editorial.upv.es/index.php/CARMA/CARMA2020/paper/view/11650)
 
-### Certificates
-- IBM's Qiskit Advocate
-- IBM Quantum Challenge
-- Qiskit Global Summer School
-
 ### Current Research Interests:
 - **Quantum Computing**
   - Quantum Walks
@@ -42,6 +37,17 @@ I've been working on Quantum Computing since my PhD, researching on Quantum Walk
 - **Web Scraping**
   - Political Polarization
   - Music and Art
+
+### Reviewing activities
+- Quantum Information Processing
+- Linear Algebra and Applications
+- Conference Worlds of Entanglement
+- Second International Workshop on Quantum Software Engineering
+
+### Certificates
+- IBM's Qiskit Advocate
+- IBM Quantum Challenge
+- Qiskit Global Summer School
 
 ### Talks
 - QLOC Seminar, Portugal, 2020. Quantum walks, algorithms and implementations.

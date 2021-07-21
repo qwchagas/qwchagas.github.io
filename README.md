@@ -46,8 +46,11 @@ I've been working on Quantum Computing since my PhD, researching on Quantum Walk
 
 ### Certificates
 - IBM's Qiskit Advocate
-- IBM Quantum Challenge
+- IBM Quantum Challenge 2020
+- IBM Quantum Challenge 2021
 - Qiskit Global Summer School
+- ICPC Quantum Challenge 2021
+- 
 
 ### Talks
 - Federal University of Alagoas, 2021. Quantum Walks.
